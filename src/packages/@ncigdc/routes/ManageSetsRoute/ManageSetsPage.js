@@ -43,7 +43,7 @@ import Dropdown from '@ncigdc/uikit/Dropdown';
 import DropdownItem from '@ncigdc/uikit/DropdownItem';
 import DownCaretIcon from 'react-icons/lib/fa/caret-down';
 import { zDepth1 } from '@ncigdc/theme/mixins';
-import Aux from '@ncigdc/utils/Aux';
+import Aux from '@ncigdc/utils/auxreact';
 import timestamp from '@ncigdc/utils/timestamp';
 
 const fields = {
